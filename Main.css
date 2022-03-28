@@ -1,0 +1,53 @@
+  .back a {
+      float: left;
+      color:whitesmoke;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+    .back a:hover {
+      background-color: whitesmoke ;
+      color: violet;
+    }
+    .back {
+      background-color: purple ;
+      overflow: hidden;
+    }
+
+    .txt{
+            position: absolute;
+            top: 33px;
+            left: 580px;
+            font-family: 'Kaushan Script', cursive;
+            text-shadow: 1px 1px black;
+            font-size: 45px;
+            color: purple;
+    }
+
+    .border{
+        position: absolute;
+        top: 80px;
+        left: 20px;
+        border: 1px solid whitesmoke;
+        box-shadow:0px 0px 5px 5px violet;
+        height: 80px;
+        width: 1320px;
+    }
+
+    .logo{
+        width: 120px;
+        height: 100px;
+        position: absolute;
+        margin-left: 1240px;
+        margin-top: 26px;
+    }
+
+    #wave{
+      position: absolute;
+      left: 0%;
+      right: 0%;
+      top: 66.31%;
+      bottom: 0%;
+      background: purple;
+    }
